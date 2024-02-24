@@ -1,1 +1,2 @@
-# finance_management
+# school_mgmt
+This repository is for School Management System Project
